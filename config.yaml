@@ -1,0 +1,31 @@
+# Refresh interval in minutes
+interval: 60
+
+# Text to add to the bot profile befor the list of subscribed servers
+profile_prefix: "This bot mirrors trending posts from other servers into this server's local timeline. If you want another server added to the list ping @tante@tldr.nettime.org.
+
+Currently mirroring trending posts from:
+"
+
+# profile fields to fill in
+fields:
+  code: https://github.com/tante/hype
+  operator: "https://tldr.nettime.org/@tante"
+  config: https://github.com/tante/hypebot-config/
+
+# Define subscribed instances and
+# their individual limit (top n trending posts)
+# which is again limited by the API to max 20
+subscribed_instances:
+  chaos.social:
+    limit: 5
+  mastodon.social:
+    limit: 5
+  climatejustice.social:
+    limit: 5
+  fosstodon.org:
+    limit: 5
+  mastodon.art:
+    limit: 5
+  hachyderm.io:
+    limit: 5
