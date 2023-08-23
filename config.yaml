@@ -33,3 +33,5 @@ subscribed_instances:
     limit: 10
   social.tchncs.de:
     limit: 10
+  infosec.exchange:
+    limit: 10
