@@ -11,7 +11,7 @@ Currently mirroring trending posts from:
 fields:
   code: https://github.com/tante/hype
   operator: "https://tldr.nettime.org/@tante"
-  config: https://github.com/tante/hypebot-config/
+  config: "https://github.com/tante/hypebot-config/"
 
 # Define subscribed instances and
 # their individual limit (top n trending posts)
