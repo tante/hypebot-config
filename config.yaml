@@ -29,8 +29,6 @@ subscribed_instances:
     limit: 10
   hachyderm.io:
     limit: 10
-  scholar.social:
-    limit: 10
   social.tchncs.de:
     limit: 10
   infosec.exchange:
