@@ -18,14 +18,16 @@ fields:
 # which is again limited by the API to max 20
 subscribed_instances:
   chaos.social:
-    limit: 5
+    limit: 10
   mastodon.social:
-    limit: 5
+    limit: 10
   climatejustice.social:
-    limit: 5
+    limit: 10
   fosstodon.org:
-    limit: 5
+    limit: 10
   mastodon.art:
-    limit: 5
+    limit: 10
   hachyderm.io:
-    limit: 5
+    limit: 10
+  scholar.social:
+    limit: 10
