@@ -35,3 +35,8 @@ subscribed_instances:
     limit: 10
   dair-community.social:
     limit: 10
+  mstdn.social:
+    limit: 10
+
+
+filtered_instances:
