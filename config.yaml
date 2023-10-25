@@ -37,6 +37,8 @@ subscribed_instances:
     limit: 10
   mstdn.social:
     limit: 10
+  tldr.nettime.org:
+    limit: 10
 
 
 filtered_instances:
