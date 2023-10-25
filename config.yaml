@@ -39,6 +39,8 @@ subscribed_instances:
     limit: 10
   tldr.nettime.org:
     limit: 10
+  mas.to:
+    limit: 10
 
 
 filtered_instances:
