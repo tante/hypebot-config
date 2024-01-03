@@ -41,7 +41,8 @@ subscribed_instances:
     limit: 10
   mas.to:
     limit: 10
-  
+  systemli.social:
+    limit: 5
 
 
 filtered_instances:
