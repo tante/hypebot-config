@@ -43,6 +43,8 @@ subscribed_instances:
     limit: 10
   systemli.social:
     limit: 5
+  mastodon.energy:
+    limit: 5
 
 
 filtered_instances:
