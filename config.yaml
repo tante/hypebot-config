@@ -45,6 +45,8 @@ subscribed_instances:
     limit: 5
   mastodon.energy:
     limit: 5
+  mastoart.social:
+    limit: 3
 
 
 filtered_instances:
